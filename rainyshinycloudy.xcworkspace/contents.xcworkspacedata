@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:default.gpx">
+   </FileRef>
+   <Group
+      location = "group:"
+      name = "Project">
+      <FileRef
+         location = "group:rainyshinycloudy.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "CocoaPods">
+      <FileRef
+         location = "group:Pods/Pods.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>
