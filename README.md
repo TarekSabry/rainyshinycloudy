@@ -1,4 +1,4 @@
-# rainyshinycloudy
+# RainyShinyCloudy
 
 RainyShinyCloudy is an app that monitors weather status and displays it for the user.
 
