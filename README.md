@@ -3,7 +3,7 @@
 RainyShinyCloudy is an app that monitors weather status and displays it for the user.
 
 # Preview : 
-![](http://i.imgur.com/tiaG1P5.png =250x250)
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
 
 # Installation :
 Just download the entire repo as a zip file, extract it, build it and you are good to go.
